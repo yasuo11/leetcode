@@ -1,6 +1,4 @@
-package array;
-
-import java.util.Arrays;
+package algorithm;
 
 public class Problem_59 {
     public int[][] generateMatrix(int n) {

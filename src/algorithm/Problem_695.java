@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_695 {
     private int[][] d = {{1,0},{0,1},{-1,0},{0,-1}};

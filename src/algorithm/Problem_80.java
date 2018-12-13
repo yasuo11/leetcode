@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_80 {
     public int removeDuplicates(int[] nums) {

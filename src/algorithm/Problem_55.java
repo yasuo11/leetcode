@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_55 {
     public boolean canJump(int[] nums) {

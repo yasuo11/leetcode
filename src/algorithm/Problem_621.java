@@ -1,6 +1,4 @@
-package array;
-
-import java.util.*;
+package algorithm;
 
 public class Problem_621 {
     public int leastInterval(char[] tasks, int n) {

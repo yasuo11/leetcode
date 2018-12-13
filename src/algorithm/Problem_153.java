@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_153 {
     public int findMin(int[] nums) {

@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_33 {
     public int search(int[] a, int target) {

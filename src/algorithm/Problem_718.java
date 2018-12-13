@@ -1,6 +1,4 @@
-package array;
-
-import java.util.Arrays;
+package algorithm;
 
 public class Problem_718 {
     public int findLength(int[] A, int[] B) {

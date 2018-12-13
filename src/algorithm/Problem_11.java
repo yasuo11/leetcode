@@ -1,6 +1,4 @@
-package array;
-
-import java.util.LinkedList;
+package algorithm;
 
 public class Problem_11 {
     public int maxArea(int[] height) {

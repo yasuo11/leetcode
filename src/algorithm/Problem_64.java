@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_64 {
     public int minPathSum(int[][] grid) {

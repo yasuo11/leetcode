@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_63 {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {

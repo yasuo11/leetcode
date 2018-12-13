@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_812 {
     //注意求面积的方法

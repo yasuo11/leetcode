@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_287 {
     public int findDuplicate(int[] nums) {

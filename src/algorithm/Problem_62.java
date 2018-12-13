@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_62 {
     public int uniquePaths(int m, int n) {

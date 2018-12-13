@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_289 {
     public void gameOfLife(int[][] board) {

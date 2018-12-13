@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_152 {
     public int maxProduct(int[] nums) {

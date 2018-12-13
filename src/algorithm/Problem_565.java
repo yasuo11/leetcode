@@ -1,7 +1,4 @@
-package array;
-
-import java.util.HashSet;
-import java.util.Set;
+package algorithm;
 
 public class Problem_565 {
     public int arrayNesting(int[] nums) {

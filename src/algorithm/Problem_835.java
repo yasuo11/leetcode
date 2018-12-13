@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_835 {
     public int largestOverlap(int[][] A, int[][] B) {

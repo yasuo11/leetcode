@@ -1,6 +1,4 @@
-package array;
-
-import java.util.Arrays;
+package algorithm;
 
 public class Problem_34 {
     public int[] searchRange(int[] nums, int target) {

@@ -1,8 +1,4 @@
-package array;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package algorithm;
 
 public class Problem_670 {
     public int maximumSwap(int num) {

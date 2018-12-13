@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_915 {
     public int partitionDisjoint(int[] A) {

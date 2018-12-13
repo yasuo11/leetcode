@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_795 {
     public int numSubarrayBoundedMax(int[] A, int L, int R) {

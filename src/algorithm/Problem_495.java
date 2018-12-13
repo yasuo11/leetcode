@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_495 {
     public int findPoisonedDuration(int[] timeSeries, int duration) {

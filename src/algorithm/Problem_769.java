@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_769 {
     public int maxChunksToSorted(int[] arr) {

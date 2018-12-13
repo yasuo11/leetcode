@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_713 {
     public int numSubarrayProductLessThanK(int[] nums, int k) {

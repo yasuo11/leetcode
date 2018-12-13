@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_48 {
     public void rotate(int[][] matrix) {

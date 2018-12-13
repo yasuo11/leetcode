@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_162 {
     public int findPeakElement(int[] nums) {

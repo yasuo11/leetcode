@@ -1,4 +1,4 @@
-package array;
+package algorithm;
 
 public class Problem_74 {
     public boolean searchMatrix(int[][] matrix, int target) {

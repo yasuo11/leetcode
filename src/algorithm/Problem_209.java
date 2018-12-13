@@ -1,6 +1,4 @@
-package array;
-
-import java.util.Map;
+package algorithm;
 
 public class Problem_209 {
     public int minSubArrayLen(int s, int[] nums) {
